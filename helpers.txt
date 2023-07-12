@@ -1,0 +1,12 @@
+text preprocessing - tokenizer
+https://wikidocs.net/21698
+
+text preprocessing - korean tokenizer
+https://wikidocs.net/92961
+
+text preprocessing - korean 형태소
+https://codong.tistory.com/32
+
+regular expression
+https://rfriend.tistory.com/748
+https://hamait.tistory.com/342
